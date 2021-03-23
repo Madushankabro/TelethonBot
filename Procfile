@@ -1,1 +1,0 @@
-BotzHub: python -m TelethonBot
