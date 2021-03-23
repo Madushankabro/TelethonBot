@@ -1,6 +1,6 @@
 # @DamienSoukara
 
-from .. import BotzHub
+from .. import Alty
 from telethon import events, Button
 
 @Alty.on(events.NewMessage(incoming=True, pattern="/start"))
