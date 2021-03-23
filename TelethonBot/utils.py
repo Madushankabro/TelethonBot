@@ -1,5 +1,4 @@
-# By < @xditya >
-# // @BotzHub //
+# @DamienSoukara
 
 import sys
 import logging
